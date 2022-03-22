@@ -1,0 +1,29 @@
+body{
+    background-color: #e3516e;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background: #51b5a9;
+    border-radius: 100% 0 0 0;
+}
+
+.c2{
+    background: #fade8b;
+    border-radius: 0 100% 0 0;
+}
+.c3{
+    background: #f7f3d7;
+    border-radius: 0 0 0 100%;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+    transform: translateX(91px) translateY(42px);
+    ;
+}
