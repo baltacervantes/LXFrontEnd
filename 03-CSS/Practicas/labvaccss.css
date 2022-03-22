@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.izquierda{
+    text-align: left;
+}
+
+.derecha{
+    text-align: right;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.link1{
+    text-decoration: none;
+    color: black;
+}
+.link2{
+    text-decoration: none;
+    color: black;
+}
+.link3{
+    text-decoration: none;
+    color: black;
+}
